@@ -1,7 +1,7 @@
 ;;; .doom.d/config.el -*- lexical-binding: t; -*-
 
 ;; Place your private configuration here
-(setq doom-theme 'doom-nord)
+(setq doom-theme 'doom-apprentice)
 (setq doom-font (font-spec :family "FuraCode Nerd Font Mono" :size 18 :weight 'light))
 (setq package-check-signature nil)
 (setq bibtex-completion-bibliography '("~/intertokens/references.bib")

@@ -111,7 +111,7 @@
        ;;ess               ; emacs speaks statistics
        ;;fsharp           ; ML stands for Microsoft's Language
        ;;go                ; the hipster dialect
-       ;;(haskell +intero) ; a language that's lazier than I am
+       (haskell +intero) ; a language that's lazier than I am
        ;;hy                ; readability of scheme w/ speed of python
        ;;idris             ;
        ;;(java +meghanada) ; the poster child for carpal tunnel syndrome
@@ -186,7 +186,7 @@
    ["#202020" "#aa4450" "#858253" "#FF8700" "#86aed5" "#8686ae" "#5b8583" "#BCBCBC"])
  '(custom-safe-themes
    (quote
-    ("2d1fe7c9007a5b76cea4395b0fc664d0c1cfd34bb4f1860300347cdad67fb2f9" "632e600085ac4f151892c509fe46a9a5338f5d23c7f1c9dfde43fa8478b1493b" "3af7b0fff67aad23e48226e1686074703b214eb2dcb05348fd0fd11149196246" "d4558e9755d71c6e8c8b720cdbf490fc16d26ad9fe513212e8e0565e9f1543f0" "993466409ff471de3b2780c886e6a8965b91c66e058ad604ac8b94802dff12ec" "5e0159afeee8e9687a53be82bdbca0f35b17c96ecd8fcd13e8d605dad4be13ab" "166ae1dd243e81df2d48ef81adc70dcb04c0ea994b6885404432fcbb79721e4f" "70ed3a0f434c63206a23012d9cdfbe6c6d4bb4685ad64154f37f3c15c10f3b90" "7d7555a303361d3692b87e4cbb84f89e2c12c6d81d0715c92749e660a6f5cf11" "bc84f2f51451b6b23f2599bdcd029d82380d598f586dad493acd21e35b5aa263" "b9095de281a0cfa99ad810b899e85ff146c5efde2ac7e9fed4a445d4bed0f44d" "5e0b63e0373472b2e1cf1ebcc27058a683166ab544ef701a6e7f2a9f33a23726" default)))
+    ("b3697d12fb7c087e1337432be92026b5fd218e7e43277918c0fce680d573a90c" "2d1fe7c9007a5b76cea4395b0fc664d0c1cfd34bb4f1860300347cdad67fb2f9" "632e600085ac4f151892c509fe46a9a5338f5d23c7f1c9dfde43fa8478b1493b" "3af7b0fff67aad23e48226e1686074703b214eb2dcb05348fd0fd11149196246" "d4558e9755d71c6e8c8b720cdbf490fc16d26ad9fe513212e8e0565e9f1543f0" "993466409ff471de3b2780c886e6a8965b91c66e058ad604ac8b94802dff12ec" "5e0159afeee8e9687a53be82bdbca0f35b17c96ecd8fcd13e8d605dad4be13ab" "166ae1dd243e81df2d48ef81adc70dcb04c0ea994b6885404432fcbb79721e4f" "70ed3a0f434c63206a23012d9cdfbe6c6d4bb4685ad64154f37f3c15c10f3b90" "7d7555a303361d3692b87e4cbb84f89e2c12c6d81d0715c92749e660a6f5cf11" "bc84f2f51451b6b23f2599bdcd029d82380d598f586dad493acd21e35b5aa263" "b9095de281a0cfa99ad810b899e85ff146c5efde2ac7e9fed4a445d4bed0f44d" "5e0b63e0373472b2e1cf1ebcc27058a683166ab544ef701a6e7f2a9f33a23726" default)))
  '(fci-rule-color "#62686E")
  '(jdee-db-active-breakpoint-face-colors (cons "#1d2127" "#dd8844"))
  '(jdee-db-requested-breakpoint-face-colors (cons "#1d2127" "#858253"))
